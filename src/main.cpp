@@ -7,7 +7,7 @@
 typedef std::chrono::high_resolution_clock Time;
 typedef std::chrono::duration<float> fsec;
 
-#define MAX 10000
+#define MAX 5000
 
 int main()
 {
